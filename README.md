@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning ... Python , C++ ,DSA ,Django ,Flask, ,Html ,css 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me piyushrai2566@gmail.com 
-- 😄 Pronouns: ...
+- 😄 Pronouns: ...  Mr.
 - ⚡ Fun fact: ... Like Sci-fi Moives and Warching and Playing Cricket 
 
 <!---
